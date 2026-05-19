@@ -1,6 +1,6 @@
 Olá, eu sou Caique 
 
-Estudante de Desenvolvimento Full Stack e Inteligência Artificial
+Desenvolvedor Fullstack | Java · Spring Boot · APIs REST | Serratec | IA Generativa
 
 Atualmente focado em:
 
